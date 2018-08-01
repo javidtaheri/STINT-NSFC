@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{J-39}
+I.~Casas, \textbf{J. Taheri}, R.~Ranjan, and A.~Zomaya, ``{GA-ETI: An Enhanced
+  Genetic Algorithm for the Scheduling of Scientific Workflows in Cloud
+  Environments},'' {\em Journal of Computational Science}, pp.~318--331, 2018.
+
+\bibitem{J-33}
+S.~Nabavi, P.~Watson, \textbf{J. Taheri}, S.~Nepal, and A.~Zomaya,
+  ``{Privacy-Aware Scheduling SaaS in High Performance Computing
+  Environments},'' {\em IEEE Transactions on Parallel and Distributed Systems},
+  vol.~28, pp.~1176--1188, 2017.
+
+\bibitem{J-32}
+S.~Deng, L.~Huang, \textbf{J. Taheri}, J.~Yin, M.~Zhou, and A.~Zomaya,
+  ``{Mobility-Aware Service Composition in Mobile Communities},'' {\em IEEE
+  Transactions on Systems, Man, and Cybernetics: Systems}, vol.~47,
+  pp.~555--568, 2017.
+
+\bibitem{J-35}
+F.~Ramezani, J.~Lu, \textbf{J. Taheri}, and A.~Zomaya, ``{A Multi-Objective
+  Load Balancing System for Cloud Environments},'' {\em The Computer Journal},
+  vol.~60, pp.~1316--1337, 2017.
+
+\bibitem{J-31}
+I.~Casas, \textbf{J. Taheri}, R.~Ranjan, L.~Wang, and A.~Zomaya, ``{A Balanced
+  Scheduler with Data Reuse and Replication for Scientific Workflows in Cloud
+  Computing Systems},'' {\em Future Generation Computer Systems}, vol.~74,
+  pp.~168--178, 2017.
+
+\end{thebibliography}
